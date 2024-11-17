@@ -1,0 +1,1 @@
+export const BASE_URI = "https://backend-deploy-with-vercel.vercel.app"
